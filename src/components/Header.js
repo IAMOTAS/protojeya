@@ -4,7 +4,7 @@ const Header = () => {
   return (
 
       <h1>
-       <em> Track Your Expenditure</em>
+       <em> Tracking Your Expenditure</em>
         </h1>
     
 
